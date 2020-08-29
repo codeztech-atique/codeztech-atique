@@ -31,25 +31,25 @@ I started Codeztech in order to share my passion for web development, and do wha
 ### Languages and Database:
 
 
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Express" width="26px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/expressjs.png" />
+<img align="left" alt="Express" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/expressjs.png" />
 
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/mongo.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/mongo.png" />
 
-<img align="left" alt="Docker" width="26px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/docker.png" />
+<img align="left" alt="Docker" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/docker.png" />
 
-<img align="left" alt="Jenkins" width="26px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/jenkins.jpg" />
+<img align="left" alt="Jenkins" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/jenkins.jpg" />
 
 
 
