@@ -10,17 +10,20 @@
 
 I started Codeztech in order to share my passion for web development, and do what I truly love. Teach and inspire new web developers. I have been in love with full-stack web development since 2015 when I did my first internship as a web developer. Ever since then I have pursued my passion, learning everything there is to know about web development. Over the years I have taught many colleagues and friends the joys of web development, and cannot wait to teach you.
 
-- 💻 I’m currently working on something cool 😉;
+- 💻 I’m currently working on something cool 😉
 - 👯 I’m looking to collaborate with other content creators on youtube
-- 🥅 2020 Goals: Learn new things explore ideas, whole concept build brand new product next level which supports AI and ML.
+- 🥅 2020 Goals: Learning new things & exploring ideas, whole concept build brand new product next level which supports AI and ML.
 - ⚡ Fun fact: Cracking jokes, and doing prank with friends.
 
 ### Connect with me:
 
 [<img align="left" alt="atiqueahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeztech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="hackerrank | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="hackerrank | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/codecademy.svg" />][blog]
 [<img align="left" alt="atique ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="atique ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="atique ahmed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="atique ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -92,7 +95,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeztech-atique&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -101,7 +104,6 @@ I started Codeztech in order to share my passion for web development, and do wha
 [youtube]: https://youtube.com/codeztech
 [instagram]: https://instagram.com/mighty_warriorr
 [linkedin]: https://linkedin.com/in/atique-ahmed-680ba5ab
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]: https://www.facebook.com/CodezTechnology
+[hackerrank]: https://www.hackerrank.com/Atique_Ahmed
+[blog]: https://codeztech.com
