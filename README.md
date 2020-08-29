@@ -1,6 +1,7 @@
-### Hi there, I'm Atique Ahmed - Sunny [codeztech][website] 👋
+### Hi there, I'm Atique Ahmed - [codeztech][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeztech.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codeztech.com)
+[![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
+[![Website](https://img.shields.io/website?label=codeztech.com&style=for-the-badge&url=https%3A%2F%2Fcodeztech.com)](https://codeztech.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codez_tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codez_tech)
 
 ## I'm a Husband, Father, Developer, and Teacher!
