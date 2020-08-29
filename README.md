@@ -20,7 +20,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 [<img align="left" alt="atiqueahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeztech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="hackerrank | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="hackerrank | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/codecademy.svg" />][blog]
+[<img align="left" alt="hackerrank | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/codecademy.svg" />][blog]
 [<img align="left" alt="atique ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="atique ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="atique ahmed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
