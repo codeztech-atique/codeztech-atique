@@ -12,7 +12,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 
 - 💻 I’m currently working on something cool 😉
 - 👯 I’m looking to collaborate with other content creators on youtube
-- 🥅 2020 Goals: Learning new things Whole concept build brand new product next level which supports AI and ML.
+- 🥅 2020 Goals: Learning new things, Whole concept build brand new product next level which supports AI and ML.
 - ⚡ Fun fact: Cracking jokes, and doing prank with friends.
 
 ### Connect with me:
@@ -28,7 +28,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 
 <br />
 
-### Languages and Tools:
+### Languages and Database:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -54,43 +54,29 @@ I started Codeztech in order to share my passion for web development, and do wha
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How To Build A React App w/ Hooks & Airtable API | styled-components | Code Quality Check](https://www.youtube.com/watch?v=FEoEvSmtmPQ)
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/watch?v=4adVM33GAlA)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
+- [Building Coronavirus Chrome Extension](https://www.youtube.com/watch?v=AHKCi5QAPMA&list=PLwfbCU-sjpjGdHSQbPFZdcOtnv7pzFM7f)
+- [ELK Stack Tutorial](https://www.youtube.com/watch?v=rNgWUdhiY5E&list=PLwfbCU-sjpjGOZn7D6-90BqvHA5zuiLmM)
+- [Mongodb Tutorial](https://www.youtube.com/watch?v=UJ7q9YRck0Y&list=PLwfbCU-sjpjH59jLnIEK-WPPckCNutmrv)
+- [Jenkins](https://www.youtube.com/watch?v=rG3yq4njfBY&list=PLwfbCU-sjpjEHvrtqcg7maLorlsA-YSeU)
+- [Meanstack Tutorial](https://www.youtube.com/watch?v=7JjjWSd8yNA&list=PLwfbCU-sjpjGKRmK1iZDxG7NmEyWcyXE0)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/codeztech)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [NodeJS Complete Guide](https://www.codeztech.com/2019/12/nodejs-complete-guide-to-build-restful.html)
+- [Mongodb Complete Guide](https://www.codeztech.com/2019/12/mongodb-complete-guide-about-mongodb.html)
+- [Jenkins with Slack integration](https://www.codeztech.com/2020/01/install-and-configure-slack-and-email-notification-with-jenkins.html)
+- [Hosting Menastack Web application](https://www.codeztech.com/2020/01/amazon-ec2-tutorial-hosting-mean-stack.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://codeztech.com)
 
 ---
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
