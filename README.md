@@ -6,7 +6,7 @@
 
 ![cover](https://codeztech-atique.github.io/codeztech-atique.png)
 
-## I'M A LEADER | DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR ON YOUTUBE !
+## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
 I started Codeztech in order to share my passion for web development, and do what I truly love. Teach and inspire new web developers. I have been in love with full-stack web development since 2015 when I did my first internship as a web developer. Ever since then I have pursued my passion, learning everything there is to know about web development. Over the years I have taught many colleagues and friends the joys of web development, and cannot wait to teach you.
 
