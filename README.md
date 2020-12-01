@@ -1,7 +1,7 @@
 ### Hi there, I'm Atique Ahmed - Youtuber [codeztech][website] 👋
 
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
-[![Website](https://img.shields.io/website?label=codeztech.com&style=for-the-badge&url=https%3A%2F%2Fcodeztech.com)](https://codeztech.com)
+[![Website](https://img.shields.io/website?label=www.codeztech.com&style=for-the-badge&url=https%3A%2F%2Fwww.codeztech.com)](https://www.codeztech.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codez_tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codez_tech)
 
 ![cover](https://codeztech-atique.github.io/codeztech.png)
@@ -86,10 +86,10 @@ I started Codeztech in order to share my passion for web development, and do wha
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Complete Guide](https://codeztech.com/2019/12/nodejs-complete-guide-to-build-restful.html)
-- [Mongodb Complete Guide](https://codeztech.com/2019/12/mongodb-complete-guide-about-mongodb.html)
-- [Jenkins with Slack integration](https://codeztech.com/2020/01/install-and-configure-slack-and-email-notification-with-jenkins.html)
-- [Hosting Menastack Web application](https://codeztech.com/2020/01/amazon-ec2-tutorial-hosting-mean-stack.html)
+- [NodeJS Complete Guide](https://www.codeztech.com/2019/12/nodejs-complete-guide-to-build-restful.html)
+- [Mongodb Complete Guide](https://www.codeztech.com/2019/12/mongodb-complete-guide-about-mongodb.html)
+- [Jenkins with Slack integration](https://www.codeztech.com/2020/01/install-and-configure-slack-and-email-notification-with-jenkins.html)
+- [Hosting Menastack Web application](https://www.codeztech.com/2020/01/amazon-ec2-tutorial-hosting-mean-stack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.codeztech.com)
@@ -110,4 +110,4 @@ I started Codeztech in order to share my passion for web development, and do wha
 [linkedin]: https://linkedin.com/in/atique-ahmed-680ba5ab
 [facebook]: https://www.facebook.com/CodezTechnology
 [hackerrank]: https://www.hackerrank.com/Atique_Ahmed
-[blog]: https://codeztech.com
+[blog]: https://www.codeztech.com
