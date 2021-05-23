@@ -103,7 +103,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 
 </details>
 
-### 🥅 Total Profile Visitor Counts -
+### 🥅 Total Profile Visitors -
 ![Visitor Count](https://profile-counter.glitch.me/{codeztech-atique}/count.svg)
 
 [website]: https://atiqueahmed.com
