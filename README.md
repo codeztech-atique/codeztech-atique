@@ -96,10 +96,10 @@ I started Codeztech in order to share my passion for web development, and do wha
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeztech-atique&show_icons=true&hide_border=true" />
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&theme=gotham" alt="Atique Ahmed | Stats" />
 
 </details>
 
