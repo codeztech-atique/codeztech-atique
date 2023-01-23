@@ -106,7 +106,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 ### 🥅 Profile Visitors   ![Visitor Count](https://profile-counter.glitch.me/{codeztech-atique}/count.svg)
 
 [website]: https://atiqueahmed.com
-[twitter]: https://twitter.com/atqzahmd
+[twitter]: https://twitter.com/codez_tech
 [youtube]: https://youtube.com/codeztech
 [instagram]: https://instagram.com/mighty_warriorr
 [linkedin]: https://linkedin.com/in/atique-ahmed-680ba5ab
