@@ -5,11 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codez_tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codez_tech)
 
 
-<!-- Video Embed -->
-<video width="100%" height="auto" controls>
-  <source src="https://codeztech-atique.github.io/codeztech.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the Video](https://codeztech-atique.github.io/codeztech.mp4)
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
