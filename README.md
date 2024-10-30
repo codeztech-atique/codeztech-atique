@@ -12,7 +12,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 
 - 💻 I’m currently working on something cool 😉
 - 👯 I’m looking to collaborate with other content creators on youtube
-- 🥅 2020 Goals: Learning new things, Whole concept build brand new product next level which supports AI and ML.
+- 🥅 2025-2026 Goals: Learning new things, Whole concept build brand new product next level which supports AI and ML.
 - ⚡ Fun fact: Cracking jokes, and doing prank with friends.
 
 ### Connect with me:
