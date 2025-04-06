@@ -10,7 +10,16 @@
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
-I started Codeztech in order to share my passion for web development, and do what I truly love. Teach and inspire new web developers. I have been in love with full-stack web development since 2015 when I did my first internship as a web developer. Ever since then I have pursued my passion, learning everything there is to know about web development. Over the years I have taught many colleagues and friends the joys of web development, and cannot wait to teach you.
+🚀 Developer Advocate @ Zoom | AI, ML & Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder
+
+With over a decade of experience in full-stack web development, I currently work as a Developer Advocate at Zoom, where I lead the development of internal platforms using technologies like React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch, and AWS. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
+
+Beyond my role at Zoom, I actively collaborate with startups to design and build their products—helping founders take ideas from vision to launch. I specialize in integrating AI, ML, and multi-agent systems to power intelligent workflows in customer service, marketing automation, SEO, and data analysis. I use platforms like ChatGPT, Grok AI, DeepSeek, and custom LLM orchestration to create scalable agentic architectures that deliver business value.
+
+I’m also a dedicated tech mentor, educator, and content creator. I founded CodezTech to share my passion for web development and do what I truly love—teach and inspire future developers. I fell in love with full-stack web development during my first internship in 2015 and have been chasing that passion ever since. Over the years, I’ve helped many friends, colleagues, and students experience the same joy of building for the web—and I’m excited to keep teaching more.
+
+Through my YouTube channel CodezTech, blog codeztech.com, personal site atiqueahmed.com, and GitHub codeztech-atique, I’ve mentored developers globally—helping over 20+ students land their dream roles by mastering JavaScript, DSA, REST APIs, React, Angular, Node.js, and cloud development.
+
 
 - 💻 I’m currently working on something cool 😉
 - 👯 I’m looking to collaborate with other content creators on youtube
