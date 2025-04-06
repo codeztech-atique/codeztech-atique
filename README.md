@@ -10,7 +10,8 @@
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
-🚀 Developer Advocate @ Zoom | AI, ML & Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder
+**🚀 Developer Advocate @ Zoom | AI, ML & Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder
+**
 
 With over a decade of experience in full-stack web development, I currently work as a Developer Advocate at Zoom, where I lead the development of internal platforms using technologies like React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch, and AWS. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
 
