@@ -13,13 +13,13 @@
 **🚀 Developer Advocate @ Zoom | AI, ML & Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder**
 
 
-With over a decade of experience in full-stack web development, I currently work as a Developer Advocate at Zoom, where I lead the development of internal platforms using technologies like React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch, and AWS. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
+With over a decade of experience in full-stack web development, I currently work as a **Developer Advocate at Zoom**, where I lead the development of internal platforms using technologies like **React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch**, and **AWS**. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
 
-Beyond my role at Zoom, I actively collaborate with startups to design and build their products—helping founders take ideas from vision to launch. I specialize in integrating AI, ML, and multi-agent systems to power intelligent workflows in customer service, marketing automation, SEO, and data analysis. I use platforms like ChatGPT, Grok AI, DeepSeek, and custom LLM orchestration to create scalable agentic architectures that deliver business value.
+Beyond my role at Zoom, I actively **collaborate with startups** to design and build their products—helping founders take ideas from vision to launch. I specialize in integrating **AI, ML, and multi-agent systems** to power intelligent workflows in **customer service, marketing automation, SEO, and data analysis**. I use platforms like ChatGPT, Grok AI, DeepSeek, and custom LLM orchestration to create scalable agentic architectures that deliver business value.
 
-I’m also a dedicated tech mentor, educator, and content creator. I founded CodezTech to share my passion for web development and do what I truly love—teach and inspire future developers. I fell in love with full-stack web development during my first internship in 2015 and have been chasing that passion ever since. Over the years, I’ve helped many friends, colleagues, and students experience the same joy of building for the web—and I’m excited to keep teaching more.
+I’m also a dedicated **tech mentor, educator, and content creator**. I founded CodezTech to share my passion for web development and do what I truly love—teach and inspire future developers. I fell in love with full-stack web development during my first internship in 2015 and have been chasing that passion ever since. Over the years, I’ve helped many friends, colleagues, and students experience the same joy of building for the web—and I’m excited to keep teaching more.
 
-Through my YouTube channel CodezTech, blog codeztech.com, personal site atiqueahmed.com, and GitHub codeztech-atique, I’ve mentored developers globally—helping over 20+ students land their dream roles by mastering JavaScript, DSA, REST APIs, React, Angular, Node.js, and cloud development.
+Through my YouTube channel [youtube], blog [blog], personal site [website], and GitHub [github], I’ve mentored developers globally—helping over 20+ students land their dream roles by mastering JavaScript, DSA, REST APIs, React, Angular, Node.js, and cloud development.
 
 **🏆 Highlights**
 
@@ -123,10 +123,11 @@ Through my YouTube channel CodezTech, blog codeztech.com, personal site atiqueah
 ### 🥅 Profile Visitors   ![Visitor Count](https://profile-counter.glitch.me/{codeztech-atique}/count.svg)
 
 [website]: https://atiqueahmed.com
+[linkedin]: https://linkedin.com/in/iamatiqueahmed
+[github]: https://github.com/codeztech-atique
 [twitter]: https://twitter.com/codez_tech
 [youtube]: https://youtube.com/codeztech
 [instagram]: https://instagram.com/mighty_warriorr
-[linkedin]: https://linkedin.com/in/iamatiqueahmed
 [facebook]: https://www.facebook.com/CodezTechnology
 [hackerrank]: https://www.hackerrank.com/Atique_Ahmed
 [blog]: https://www.codeztech.com
