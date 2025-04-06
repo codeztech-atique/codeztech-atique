@@ -1,7 +1,9 @@
 ### Hi there, I'm Atique Ahmed - Youtuber [codeztech][youtube] 👋
 
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
+[![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/iamatiqueahmed)](https://www.linkedin.com/in/iamatiqueahmed)  
 [![Website](https://img.shields.io/website?label=www.codeztech.com&style=for-the-badge&url=https%3A%2F%2Fwww.codeztech.com)](https://www.codeztech.com)
+[![Website](https://img.shields.io/website?label=www.codeztech.com&style=for-the-badge&url=https%3A%2F%2Fgithub.com/Codez-Tech)](https://github.com/Codez-Tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codez_tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codez_tech)
 
 ![cover](https://codeztech-atique.github.io/codeztech.png)
@@ -12,7 +14,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 
 - 💻 I’m currently working on something cool 😉
 - 👯 I’m looking to collaborate with other content creators on youtube
-- 🥅 2025-2026 Goals: Learning new things, Whole concept build brand new product next level which supports AI and ML.
+- 🥅 2025-2030 Goals: Learning new things, Whole concept build brand new product next level which supports AI and ML.
 - ⚡ Fun fact: Cracking jokes, and doing prank with friends.
 
 ### Connect with me:
@@ -109,7 +111,7 @@ I started Codeztech in order to share my passion for web development, and do wha
 [twitter]: https://twitter.com/codez_tech
 [youtube]: https://youtube.com/codeztech
 [instagram]: https://instagram.com/mighty_warriorr
-[linkedin]: https://linkedin.com/in/atique-ahmed-680ba5ab
+[linkedin]: https://linkedin.com/in/iamatiqueahmed
 [facebook]: https://www.facebook.com/CodezTechnology
 [hackerrank]: https://www.hackerrank.com/Atique_Ahmed
 [blog]: https://www.codeztech.com
