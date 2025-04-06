@@ -20,11 +20,16 @@ I’m also a dedicated tech mentor, educator, and content creator. I founded Cod
 
 Through my YouTube channel CodezTech, blog codeztech.com, personal site atiqueahmed.com, and GitHub codeztech-atique, I’ve mentored developers globally—helping over 20+ students land their dream roles by mastering JavaScript, DSA, REST APIs, React, Angular, Node.js, and cloud development.
 
+**🏆 Highlights**
 
-- 💻 I’m currently working on something cool 😉
-- 👯 I’m looking to collaborate with other content creators on youtube
-- 🥅 2025-2030 Goals: Learning new things, Whole concept build brand new product next level which supports AI and ML.
-- ⚡ Fun fact: Cracking jokes, and doing prank with friends.
+- 🏅 Guinness World Record holder for programming excellence
+- 🚀 Startup advisor with expertise in building MVPs and AI-first products
+- 📜 Multi-certified in cloud, frontend, backend & AI technologies
+- 🎤 Tech speaker, mentor, and lifelong learner
+- 💻 Currently working on something cool 😉
+- 👯 Open to collaborating with other content creators on YouTube
+- 🥅 2025–2030 Goals: Innovating with multi-agent AI systems and building next-gen products powered by AI and ML
+- ⚡ Fun fact: Love cracking jokes and pulling harmless pranks with friends 😄
 
 ### Connect with me:
 
