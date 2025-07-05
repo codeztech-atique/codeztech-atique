@@ -5,7 +5,7 @@
 <img src="https://api.countapi.xyz/hit/codeztech-atique/profileviews" style="display:none;" alt="hit counter"/>
 
 <!-- display the current value via Shields.io -->
-[![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fcodeztech-atique%2Fprofileviews&color=blue)](https://github.com/codeztech-atique)
+![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=dc143c)
 
 
 
