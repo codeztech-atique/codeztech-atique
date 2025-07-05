@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=4d4d4d&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=4d4d4dstyle=flat-square)
 ### Hi there, I'm Atique Ahmed - ( Youtube [codeztech][youtube] ) 👋 
 
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
