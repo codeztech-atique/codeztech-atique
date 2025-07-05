@@ -72,67 +72,30 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ## 💻 Programming Languages & Frameworks
 
 ### 🖥️ Frontend
-
 <p align="left">
-  <a href="https://www.w3schools.com/html/" title="HTML5 (W3Schools)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" alt="CSS3"/>
-  </a>
-  <a href="https://www.w3schools.com/js/" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/>
-  </a>
-  <a href="https://angular.io/" title="Angular">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="32" alt="Angular"/>
-  </a>
-  <a href="https://reactjs.org/" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
-  </a>
-  <a href="https://vuejs.org/" title="Vue.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="32" alt="Vue.js"/>
-  </a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS">
-    <img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="32" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://getbootstrap.com/" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="32" alt="Bootstrap"/>
-  </a>
-  <a href="https://material-ui.com/" title="Material-UI">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="32" alt="Material-UI"/>
-  </a>
+  <a href="https://www.w3schools.com/html/"       title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"       width="32" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/"        title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"         width="32" alt="CSS3" /></a>
+  <a href="https://www.w3schools.com/js/"         title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" /></a>
+  <a href="https://angular.io/"                  title="Angular"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"     width="32" alt="Angular" /></a>
+  <a href="https://reactjs.org/"                  title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"             width="32" alt="React" /></a>
+  <a href="https://vuejs.org/"                    title="Vue.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"             width="32" alt="Vue.js" /></a>
+  <a href="https://tailwindcss.com/"              title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="32" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/"             title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"       width="32" alt="Bootstrap" /></a>
+  <a href="https://material-ui.com/"              title="Material-UI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="32" alt="Material-UI" /></a>
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-  <a href="https://nodejs.org/" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/>
-  </a>
-  <a href="https://www.java.com/" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"/>
-  </a>
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"/>
-  </a>
-  <a href="https://expressjs.com/" title="Express.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express.js"/>
-  </a>
-  <a href="https://hapijs.com/" title="Hapi.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hapijs/hapijs-original.svg" width="32" alt="Hapi.js"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" title="Spring Boot">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32" alt="Spring Boot"/>
-  </a>
-  <a href="https://mochajs.org/" title="Mocha">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" width="32" alt="Mocha"/>
-  </a>
-  <a href="https://docs.microsoft.com/aspnet/mvc" title="MVC Pattern">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="32" alt="MVC"/>
-  </a>
+  <a href="https://nodejs.org/"                   title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"             width="32" alt="Node.js" /></a>
+  <a href="https://www.typescriptlang.org/"       title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript" /></a>
+  <a href="https://www.java.com/"                 title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"                   width="32" alt="Java" /></a>
+  <a href="https://www.python.org/"               title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"             width="32" alt="Python" /></a>
+  <a href="https://expressjs.com/"                title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"         width="32" alt="Express.js" /></a>
+  <a href="https://hapijs.com/"                   title="Hapi.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hapijs/hapijs-original.svg"             width="32" alt="Hapi.js" /></a>
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"             width="32" alt="Spring Boot" /></a>
+  <a href="https://mochajs.org/"                  title="Mocha"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg"                   width="32" alt="Mocha" /></a>
+  <a href="https://docs.microsoft.com/aspnet/mvc"  title="MVC Pattern"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"        width="32" alt="MVC" /></a>
 </p>
 
 ---
