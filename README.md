@@ -79,8 +79,6 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
 
 
 
-
-
 <br />
 <br />
 
@@ -113,6 +111,34 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
 
 ---
 
+<p align="center">
+  <!-- Tech-stack icons (Devicon) -->
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <!-- add or remove icons as you wish -->
+</p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <!-- Most Used Languages bar -->
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default)](https://github.com/codeztech-atique/github-readme-stats)
+      </td>
+      <td valign="top">
+        <!-- Overall GitHub stats -->
+        [![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10)](https://github.com/codeztech-atique)
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <!-- Contribution streaks -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true)
+</p>
 
 <summary>📊 Github Stats</summary>
 
