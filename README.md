@@ -104,18 +104,31 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ➡️ [more blog posts...](https://www.codeztech.com)
 
 ---
+<summary>📊 Github Stats</summary>
 
 <p align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default)](https://github.com/codeztech-atique/github-readme-stats)
-    
-
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10)](https://github.com/codeztech-atique)
-    
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default)
+  <a href="https://github.com/codeztech-atique/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default" 
+      alt="Top Languages" 
+      style="display:inline-block;margin:0 10px;" 
+    />
+  </a>
+  <a href="https://github.com/codeztech-atique">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10" 
+      alt="GitHub Stats" 
+      style="display:inline-block;margin:0 10px;" 
+    />
+  </a>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default" 
+    alt="GitHub Streak" 
+    style="display:inline-block;margin:0 10px;" 
+  />
 </p>
 
-<summary>📊 Github Stats</summary>
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&theme=gotham" alt="Atique Ahmed | Stats" />
 
