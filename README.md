@@ -16,13 +16,10 @@
 **🚀 Developer Advocate @ Zoom | AI, ML & Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder**
 
 
-With over a decade of experience in full-stack web development, I currently work as a **Developer Advocate at Zoom**, where I lead the development of internal platforms using technologies like **React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch**, and **AWS**. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
+With over a decade of experience in full-stack web development, I currently work as a **Developer Advocate at Zoom**, where I lead the development of internal platforms using technologies like **React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch**, **AWS** and **GCP**. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
 
 Beyond my role at Zoom, I actively **collaborate with startups** to design and build their products—helping founders take ideas from vision to launch. I specialize in integrating **AI, ML, and multi-agent systems** to power intelligent workflows in **customer service, marketing automation, SEO, and data analysis**. I use platforms like ChatGPT, Grok AI, DeepSeek, and custom LLM orchestration to create scalable agentic architectures that deliver business value.
 
-I’m also a dedicated **tech mentor, educator, and content creator**. I founded CodezTech to share my passion for web development and do what I truly love—teach and inspire future developers. I fell in love with full-stack web development during my first internship in 2015 and have been chasing that passion ever since. Over the years, I’ve helped many friends, colleagues, and students experience the same joy of building for the web—and I’m excited to keep teaching more.
-
-Through my YouTube channel [youtube], blog [blog], personal site [website], and GitHub [github], I’ve mentored developers globally—helping over 20+ students land their dream roles by mastering JavaScript, DSA, REST APIs, React, Angular, Node.js, and cloud development.
 
 **🏆 Highlights**
 
@@ -32,8 +29,7 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
 - 🎤 Tech speaker, mentor, and lifelong learner
 - 💻 Currently working on something cool 😉
 - 👯 Open to collaborating with other content creators on YouTube
-- 🥅 2025–2030 Goals: Innovating with multi-agent AI systems and building next-gen products powered by AI and ML
-- ⚡ Fun fact: Love cracking jokes and pulling harmless pranks with friends 😄
+- 🥅 2020–2030 Goals: Innovating with multi-agent AI systems and building next-gen products powered by AI and ML
 
 ### Connect with me:
 
@@ -102,21 +98,12 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
 - [NodeJS Complete Guide](https://www.codeztech.com/2019/12/nodejs-complete-guide-to-build-restful.html)
 - [Mongodb Complete Guide](https://www.codeztech.com/2019/12/mongodb-complete-guide-about-mongodb.html)
 - [Jenkins with Slack integration](https://www.codeztech.com/2020/01/install-and-configure-slack-and-email-notification-with-jenkins.html)
-- [Hosting Menastack Web application](https://www.codeztech.com/2020/01/amazon-ec2-tutorial-hosting-mean-stack.html)
+- [Hosting Meanstack Web application](https://www.codeztech.com/2020/01/amazon-ec2-tutorial-hosting-mean-stack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.codeztech.com)
 
 ---
-
-<p align="center">
-  <!-- Tech-stack icons (Devicon) -->
-  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <!-- add or remove icons as you wish -->
-</p>
 
 <p align="center">
   <table>
@@ -134,7 +121,6 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
 </p>
 
 <p align="center">
-  <!-- Contribution streaks -->
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true)
 </p>
 
@@ -142,7 +128,6 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&theme=gotham" alt="Atique Ahmed | Stats" />
 
-</details>
 
 ### 🥅 Profile Visitors   ![Visitor Count](https://profile-counter.glitch.me/{codeztech-atique}/count.svg)
 
