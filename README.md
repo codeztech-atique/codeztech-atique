@@ -79,7 +79,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   <a href="https://angular.io/"                   title="Angular"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"           width="32" alt="Angular" /></a>
   <a href="https://reactjs.org/"                  title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"                     width="32" alt="React" /></a>
   <a href="https://vuejs.org/"                    title="Vue.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"                   width="32" alt="Vue.js" /></a>
- 
   <a href="https://getbootstrap.com/"             title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"               width="32" alt="Bootstrap" /></a>
   <a href="https://material-ui.com/"              title="Material-UI"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"     width="32" alt="Material-UI" /></a>
   <a href="https://nextjs.org/"                   title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"                          width="32" alt="Next.js" /></a>
