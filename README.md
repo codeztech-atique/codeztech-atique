@@ -1,4 +1,4 @@
-### Hi there, I'm Atique Ahmed - Youtuber [codeztech][youtube] 👋
+### Hi there, I'm Atique Ahmed - Youtube [codeztech][youtube] 👋
 
 <!-- display the current value via Shields.io -->
 ![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=%234d4d4d)
@@ -16,7 +16,6 @@
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
 **🚀 Developer Advocate @ Zoom | AI, ML & Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder**
-
 
 With over a decade of experience in full-stack web development, I currently work as a **Developer Advocate at Zoom**, where I lead the development of internal platforms using technologies like **React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch**, **AWS** and **GCP**. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
 
