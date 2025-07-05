@@ -69,19 +69,18 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 </table>
 
 
-**Languages and Database:**
 ## 💻 Programming Languages & Frameworks
 
 ### 🖥️ Frontend
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+  <a href="https://www.w3schools.com/html/" title="HTML5 (W3Schools)">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+  <a href="https://www.w3schools.com/css/" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" alt="CSS3"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <a href="https://www.w3schools.com/js/" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/>
   </a>
   <a href="https://angular.io/" title="Angular">
@@ -123,7 +122,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express.js"/>
   </a>
   <a href="https://hapijs.com/" title="Hapi.js">
-    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/hapijs.svg" width="32" alt="Hapi.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hapijs/hapijs-original.svg" width="32" alt="Hapi.js"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" title="Spring Boot">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32" alt="Spring Boot"/>
@@ -135,7 +134,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="32" alt="MVC"/>
   </a>
 </p>
-
 
 ---
 
