@@ -70,123 +70,70 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 
 **Languages and Database:**
+## 💻 Programming Languages & Frameworks
 
-<img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="MongoDB" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/mongo.png" />
-
-<img align="left" alt="Angular" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Elasticsearch" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/elasticsearch.png" />
-
-<img align="left" alt="Kibana" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/kibana.png" />
-
-<img align="left" alt="Logstash" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/logstash.png" />
-
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Express" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/expressjs.png" />
-
-<img align="left" alt="Docker" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/docker.png" />
-
-<img align="left" alt="Jenkins" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/jenkins.jpg" />
-
-
-<br />
-<br />
-
-## 🛠️ Languages & Tools
-
-### ☁️ Cloud Platforms
+### 🖥️ Frontend
 
 <p align="left">
-  <!-- AWS Group -->
-  <strong>AWS:</strong>
-  <a href="https://aws.amazon.com/lambda/" title="AWS Lambda">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="AWS"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5"/>
   </a>
-  <a href="https://aws.amazon.com/api-gateway/" title="AWS API Gateway">
-    <img src="https://img.icons8.com/color/48/000000/api-management.png" width="32" alt="API Gateway"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" alt="CSS3"/>
   </a>
-  <a href="https://aws.amazon.com/s3/" title="AWS S3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="S3"/>
-  </a>
-  <!-- …add more AWS services here… -->
-</p>
-
-<p align="left">
-  <!-- GCP Group -->
-  <strong>GCP:</strong>
-  <a href="https://cloud.google.com/functions" title="GCP Cloud Functions">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" alt="GCP"/>
-  </a>
-  <a href="https://cloud.google.com/apis" title="GCP API Gateway">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="32" alt="GCP API Gateway"/>
-  </a>
-  <!-- …add more GCP services here… -->
-</p>
-
-### 💻 Languages
-
-<p align="left">
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/>
-  </a>
-  <a href="https://www.javascript.com/" title="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/>
-  </a>
-  <!-- …other languages… -->
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p align="left">
-  <a href="https://reactjs.org/" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
   </a>
   <a href="https://angular.io/" title="Angular">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="32" alt="Angular"/>
   </a>
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
+  </a>
+  <a href="https://vuejs.org/" title="Vue.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="32" alt="Vue.js"/>
+  </a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="32" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://getbootstrap.com/" title="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="32" alt="Bootstrap"/>
+  </a>
+  <a href="https://material-ui.com/" title="Material-UI">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="32" alt="Material-UI"/>
+  </a>
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
   <a href="https://nodejs.org/" title="Node.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/>
   </a>
-  <!-- …other frameworks… -->
-</p>
-
-### 🗄️ Databases & Caching
-
-<p align="left">
-  <a href="https://www.mongodb.com/" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"/>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/>
   </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"/>
+  <a href="https://www.java.com/" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java"/>
   </a>
-  <a href="https://redis.io/" title="Redis">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32" alt="Redis"/>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"/>
   </a>
-  <!-- …other DBs… -->
-</p>
-
-### 🐳 Container & CI/CD
-
-<p align="left">
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" alt="Docker"/>
+  <a href="https://expressjs.com/" title="Express.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" alt="Express.js"/>
   </a>
-  <a href="https://www.jenkins.io/" title="Jenkins">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="32" alt="Jenkins"/>
+  <a href="https://hapijs.com/" title="Hapi.js">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/hapijs.svg" width="32" alt="Hapi.js"/>
   </a>
-  <!-- …other tools… -->
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="32" alt="Spring Boot"/>
+  </a>
+  <a href="https://mochajs.org/" title="Mocha">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" width="32" alt="Mocha"/>
+  </a>
+  <a href="https://docs.microsoft.com/aspnet/mvc" title="MVC Pattern">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="32" alt="MVC"/>
+  </a>
 </p>
 
 
