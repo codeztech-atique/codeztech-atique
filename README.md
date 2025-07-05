@@ -1,7 +1,12 @@
 ### Hi there, I'm Atique Ahmed - Youtuber [codeztech][youtube] 👋
 
 
-[![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fcodeztech-atique%2Fprofileviews)](https://github.com/codeztech-atique)
+<!-- increment on each render (invisible) -->
+<img src="https://api.countapi.xyz/hit/codeztech-atique/profileviews" style="display:none;" alt="hit counter"/>
+
+<!-- display the current value via Shields.io -->
+[![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fcodeztech-atique%2Fprofileviews&color=blue)](https://github.com/codeztech-atique)
+
 
 
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
