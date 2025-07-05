@@ -34,47 +34,51 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 <br />
 
 **📊 Github Stats**
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Row 1, Col 1: GitHub Stats -->
+    <td style="padding:10px;text-align:center;vertical-align:top;">
+      <a href="https://github.com/codeztech-atique">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10"
+          alt="Atique Ahmed's GitHub Stats"
+        />
+      </a>
+    </td>
 
-<p align="center">
-  <!-- 1. Stats -->
-  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
-    <a href="https://github.com/codeztech-atique">
+    <!-- Row 1, Col 2: Contributions & Streaks -->
+    <td style="padding:10px;text-align:center;vertical-align:top;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10"
-        alt="GitHub Stats"
+        src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true&ring=DDDDDD"
+        alt="GitHub Contributions & Streak"
       />
-    </a>
-  </span>
+    </td>
+  </tr>
 
-  <!-- 2. Contributions/Streak -->
-  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default"
-      alt="GitHub Streak"
-    />
-  </span>
+  <tr>
+    <!-- Row 2, Col 1: Top Languages -->
+    <td style="padding:10px;text-align:center;vertical-align:top;">
+      <a href="https://github.com/codeztech-atique/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default"
+          alt="Most Used Languages"
+        />
+      </a>
+    </td>
 
-  <!-- 3. Top Languages -->
-  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
-    <a href="https://github.com/codeztech-atique/github-readme-stats">
+    <!-- Row 2, Col 2: GitHub Trophies -->
+    <td style="padding:10px;text-align:center;vertical-align:top;">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default"
-        alt="Most Used Languages"
+        src="https://github-profile-trophy.vercel.app/?username=codeztech-atique&theme=default&no-frame=true&row=1&column=4"
+        alt="GitHub Trophies"
       />
-    </a>
-  </span>
-
-  <!-- 4. GitHub Trophies -->
-  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=codeztech-atique&theme=default&no-frame=true&row=1&column=4"
-      alt="GitHub Trophies"
-    />
-  </span>
-</p>
+    </td>
+  </tr>
+</table>
 
 
-### Languages and Database:
+
+**Languages and Database:**
 
 <img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
