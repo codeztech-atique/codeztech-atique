@@ -77,8 +77,6 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
 <img align="left" alt="Jenkins" width="32px" src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/jenkins.jpg" />
 
 
-
-
 <br />
 <br />
 
@@ -124,11 +122,11 @@ Through my YouTube channel [youtube], blog [blog], personal site [website], and 
   <table>
     <tr>
       <td valign="top">
-        <!-- Most Used Languages bar -->
+
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default)](https://github.com/codeztech-atique/github-readme-stats)
       </td>
       <td valign="top">
-        <!-- Overall GitHub stats -->
+
         [![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10)](https://github.com/codeztech-atique)
       </td>
     </tr>
