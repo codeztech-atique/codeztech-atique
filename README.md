@@ -112,7 +112,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10)](https://github.com/codeztech-atique)
     
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true)]
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true)
 </p>
 
 <summary>📊 Github Stats</summary>
