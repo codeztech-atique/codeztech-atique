@@ -1,6 +1,5 @@
-### Hi there, I'm Atique Ahmed - Youtube [codeztech][youtube] 👋
+### Hi there, I'm Atique Ahmed - ( Youtube [codeztech][youtube] ) 👋 ![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=4d4d4d&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=4d4d4d&style=flat-square)
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
 [![Linkedin](https://img.shields.io/website?label=Atique_Ahmed_LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/iamatiqueahmed)](https://www.linkedin.com/in/iamatiqueahmed)  
 [![Website](https://img.shields.io/website?label=www.codeztech.com&style=for-the-badge&url=https%3A%2F%2Fwww.codeztech.com)](https://www.codeztech.com)
