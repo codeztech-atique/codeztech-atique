@@ -101,6 +101,95 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 <br />
 <br />
 
+## 🛠️ Languages & Tools
+
+### ☁️ Cloud Platforms
+
+<p align="left">
+  <!-- AWS Group -->
+  <strong>AWS:</strong>
+  <a href="https://aws.amazon.com/lambda/" title="AWS Lambda">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="AWS"/>
+  </a>
+  <a href="https://aws.amazon.com/api-gateway/" title="AWS API Gateway">
+    <img src="https://img.icons8.com/color/48/000000/api-management.png" width="32" alt="API Gateway"/>
+  </a>
+  <a href="https://aws.amazon.com/s3/" title="AWS S3">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="S3"/>
+  </a>
+  <!-- …add more AWS services here… -->
+</p>
+
+<p align="left">
+  <!-- GCP Group -->
+  <strong>GCP:</strong>
+  <a href="https://cloud.google.com/functions" title="GCP Cloud Functions">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="32" alt="GCP"/>
+  </a>
+  <a href="https://cloud.google.com/apis" title="GCP API Gateway">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" width="32" alt="GCP API Gateway"/>
+  </a>
+  <!-- …add more GCP services here… -->
+</p>
+
+### 💻 Languages
+
+<p align="left">
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" alt="TypeScript"/>
+  </a>
+  <a href="https://www.javascript.com/" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JavaScript"/>
+  </a>
+  <!-- …other languages… -->
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <a href="https://reactjs.org/" title="React">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" alt="React"/>
+  </a>
+  <a href="https://angular.io/" title="Angular">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="32" alt="Angular"/>
+  </a>
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js"/>
+  </a>
+  <!-- …other frameworks… -->
+</p>
+
+### 🗄️ Databases & Caching
+
+<p align="left">
+  <a href="https://www.mongodb.com/" title="MongoDB">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB"/>
+  </a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL"/>
+  </a>
+  <a href="https://redis.io/" title="Redis">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32" alt="Redis"/>
+  </a>
+  <!-- …other DBs… -->
+</p>
+
+### 🐳 Container & CI/CD
+
+<p align="left">
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" alt="Docker"/>
+  </a>
+  <a href="https://www.jenkins.io/" title="Jenkins">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="32" alt="Jenkins"/>
+  </a>
+  <!-- …other tools… -->
+</p>
+
+
 ---
 
 ### 📺 Latest YouTube Videos
