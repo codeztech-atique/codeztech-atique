@@ -1,20 +1,13 @@
 ### Hi there, I'm Atique Ahmed - Youtuber [codeztech][youtube] 👋
 
-
-<!-- increment on each render (invisible) -->
-<img src="https://api.countapi.xyz/hit/codeztech-atique/profileviews" style="display:none;" alt="hit counter"/>
-
 <!-- display the current value via Shields.io -->
-![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=dc143c)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=%234d4d4d)
 
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
 [![Linkedin](https://img.shields.io/website?label=Atique_Ahmed_LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/iamatiqueahmed)](https://www.linkedin.com/in/iamatiqueahmed)  
 [![Website](https://img.shields.io/website?label=www.codeztech.com&style=for-the-badge&url=https%3A%2F%2Fwww.codeztech.com)](https://www.codeztech.com)
 [![Website](https://img.shields.io/website?label=Codeztech_GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/Codez-Tech)](https://github.com/Codez-Tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codez_tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codez_tech)
-
 
 ![cover](https://codeztech-atique.github.io/codeztech.png)
 
@@ -195,8 +188,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ➡️ [more blog posts...](https://www.codeztech.com)
 
 ---
-
-### 🥅 Profile Visitors   ![Visitor Count](https://profile-counter.glitch.me/{codeztech-atique}/count.svg)
 
 [website]: https://atiqueahmed.com
 [linkedin]: https://linkedin.com/in/iamatiqueahmed
