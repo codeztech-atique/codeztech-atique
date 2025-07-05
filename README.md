@@ -1,7 +1,5 @@
 ### Hi there, I'm Atique Ahmed - Youtuber [codeztech][youtube] 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
 [![Linkedin](https://img.shields.io/website?label=Atique_Ahmed_LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/iamatiqueahmed)](https://www.linkedin.com/in/iamatiqueahmed)  
 [![Website](https://img.shields.io/website?label=www.codeztech.com&style=for-the-badge&url=https%3A%2F%2Fwww.codeztech.com)](https://www.codeztech.com)
@@ -10,6 +8,8 @@
 
 
 ![cover](https://codeztech-atique.github.io/codeztech.png)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
