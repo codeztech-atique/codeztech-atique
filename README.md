@@ -122,6 +122,22 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   </a>
 </p>
 
+### 🚀 CI/CD Pipelines
+
+<p align="left">
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/" title="Jenkins">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="32" alt="Jenkins"/>
+  </a>
+  <!-- AWS CodePipeline -->
+  <a href="https://aws.amazon.com/codepipeline/" title="AWS CodePipeline">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="AWS CodePipeline"/>
+  </a>
+  <!-- GitHub Actions -->
+  <a href="https://github.com/features/actions" title="GitHub Actions">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub Actions"/>
+  </a>
+</p>
 
 ---
 
