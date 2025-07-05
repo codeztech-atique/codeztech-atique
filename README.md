@@ -6,6 +6,8 @@
 [![Website](https://img.shields.io/website?label=Codeztech_GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/Codez-Tech)](https://github.com/Codez-Tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codez_tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codez_tech)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![cover](https://codeztech-atique.github.io/codeztech.png)
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
