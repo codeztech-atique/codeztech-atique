@@ -206,7 +206,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   <!-- n8n -->
   <a href="https://n8n.io/" title="n8n">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/n8n.svg"
+      src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/n8n.png"
       width="32"
       alt="n8n"
     />
