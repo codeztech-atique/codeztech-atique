@@ -31,17 +31,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 - 👯 Open to collaborating with other content creators on YouTube
 - 🥅 2020–2030 Goals: Innovating with multi-agent AI systems and building next-gen products powered by AI and ML
 
-### Connect with me:
-
-[<img align="left" alt="atiqueahmed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeztech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="hackerrank | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="hackerrank | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/codecademy.svg" />][blog]
-[<img align="left" alt="atique ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="atique ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="atique ahmed | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="atique ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Database:
