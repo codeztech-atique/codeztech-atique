@@ -36,7 +36,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 **📊 Github Stats**
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- Row 1, Col 1: GitHub Stats -->
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <a href="https://github.com/codeztech-atique">
         <img
@@ -45,8 +44,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
         />
       </a>
     </td>
-
-    <!-- Row 1, Col 2: Contributions & Streaks -->
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true&ring=DDDDDD"
@@ -54,9 +51,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
       />
     </td>
   </tr>
-
   <tr>
-    <!-- Row 2, Col 1: Top Languages -->
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <a href="https://github.com/codeztech-atique/github-readme-stats">
         <img
@@ -65,8 +60,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
         />
       </a>
     </td>
-
-    <!-- Row 2, Col 2: GitHub Trophies -->
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <img
         src="https://github-profile-trophy.vercel.app/?username=codeztech-atique&theme=default&no-frame=true&row=1&column=4"
