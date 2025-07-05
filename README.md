@@ -33,6 +33,47 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 <br />
 
+**📊 Github Stats**
+
+<p align="center">
+  <!-- 1. Stats -->
+  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
+    <a href="https://github.com/codeztech-atique">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10"
+        alt="GitHub Stats"
+      />
+    </a>
+  </span>
+
+  <!-- 2. Contributions/Streak -->
+  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default"
+      alt="GitHub Streak"
+    />
+  </span>
+
+  <!-- 3. Top Languages -->
+  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
+    <a href="https://github.com/codeztech-atique/github-readme-stats">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default"
+        alt="Most Used Languages"
+      />
+    </a>
+  </span>
+
+  <!-- 4. GitHub Trophies -->
+  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=codeztech-atique&theme=default&no-frame=true&row=1&column=4"
+      alt="GitHub Trophies"
+    />
+  </span>
+</p>
+
+
 ### Languages and Database:
 
 <img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
@@ -93,37 +134,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ➡️ [more blog posts...](https://www.codeztech.com)
 
 ---
-<summary>📊 Github Stats</summary>
-<p align="center">
-  <!-- 1. Stats Card -->
-  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
-    <a href="https://github.com/codeztech-atique">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10"
-        alt="Atique Ahmed's GitHub Stats"
-      />
-    </a>
-  </span>
-
-  <!-- 2. Contributions & Streaks Card -->
-  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default"
-      alt="GitHub Contributions & Streak"
-    />
-  </span>
-
-  <!-- 3. Top Languages Bar -->
-  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
-    <a href="https://github.com/codeztech-atique/github-readme-stats">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default"
-        alt="Most Used Languages"
-      />
-    </a>
-  </span>
-</p>
-
 
 ### 🥅 Profile Visitors   ![Visitor Count](https://profile-counter.glitch.me/{codeztech-atique}/count.svg)
 
