@@ -99,7 +99,40 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   <a href="https://graphql.org/"                  title="GraphQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"                     width="32" alt="GraphQL" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Webhooks" title="Webhooks"><img src="https://img.icons8.com/ios-filled/50/000000/webhook.png"     width="32" alt="Webhooks" /></a>
 
+### 🗄️ Databases
 
+<p align="left">
+  <a href="https://www.mongodb.com/" title="MongoDB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" alt="MongoDB" />
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" title="DynamoDB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="32" alt="DynamoDB" />
+  </a>
+  <a href="https://redis.io/" title="Redis">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" alt="Redis" />
+  </a>
+  <a href="https://www.mysql.com/" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.elastic.co/elasticsearch/" title="Elasticsearch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32" alt="Elasticsearch" />
+  </a>
+  <a href="https://aws.amazon.com/documentdb/" title="Amazon DocumentDB">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon DocumentDB" />
+  </a>
+  <a href="https://aws.amazon.com/rds/aurora/" title="Amazon Aurora">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon Aurora" />
+  </a>
+  <a href="https://aws.amazon.com/rds/" title="Amazon RDS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon RDS" />
+  </a>
+</p>
+
+
+---
 
 ### 📺 Latest YouTube Videos
 
