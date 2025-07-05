@@ -120,15 +120,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   <a href="https://www.elastic.co/elasticsearch/" title="Elasticsearch">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32" alt="Elasticsearch" />
   </a>
-  <a href="https://aws.amazon.com/documentdb/" title="Amazon DocumentDB">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon DocumentDB" />
-  </a>
-  <a href="https://aws.amazon.com/rds/aurora/" title="Amazon Aurora">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon Aurora" />
-  </a>
-  <a href="https://aws.amazon.com/rds/" title="Amazon RDS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="Amazon RDS" />
-  </a>
 </p>
 
 
