@@ -139,6 +139,51 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   </a>
 </p>
 
+### ☁️ Cloud Platforms
+
+<p align="left">
+  <!-- Amazon Web Services -->
+  <a href="https://aws.amazon.com/" title="Amazon Web Services">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
+      width="32" 
+      alt="AWS" 
+    />
+  </a>
+
+  <!-- Google Cloud Platform -->
+  <a href="https://cloud.google.com/" title="Google Cloud Platform">
+    <img 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" 
+      width="32" 
+      alt="GCP" 
+    />
+  </a>
+</p>
+
+
+### 🐳 Containerization & Orchestration
+
+<p align="left">
+  <!-- Docker -->
+  <a href="https://www.docker.com/" title="Docker">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      width="32"
+      alt="Docker"
+    />
+  </a>
+  <!-- (Optional) Kubernetes -->
+  <a href="https://kubernetes.io/" title="Kubernetes">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+      width="32"
+      alt="Kubernetes"
+    />
+  </a>
+</p>
+
+
 ---
 
 ### 📺 Latest YouTube Videos
