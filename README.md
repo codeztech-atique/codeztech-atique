@@ -71,6 +71,64 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 ## 💻 Programming Languages & Frameworks
 
+### 🤖 Building AI Agents with Agentic AI
+
+<p align="left">
+  <!-- AWS Bedrock -->
+  <a href="https://aws.amazon.com/bedrock/" title="AWS Bedrock">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      width="32"
+      alt="AWS Bedrock"
+    />
+  </a>
+
+  <!-- GCP Vertex AI -->
+  <a href="https://cloud.google.com/vertex-ai" title="GCP Vertex AI">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+      width="32"
+      alt="GCP Vertex AI"
+    />
+  </a>
+
+  <!-- n8n -->
+  <a href="https://n8n.io/" title="n8n">
+    <img
+      src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/n8n.png"
+      width="32"
+      alt="n8n"
+    />
+  </a>
+
+  <!-- TensorFlow.js -->
+  <a href="https://www.tensorflow.org/js" title="TensorFlow.js">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+      width="32"
+      alt="TensorFlow.js"
+    />
+  </a>
+
+  <!-- Model Context Protocol (MCP) -->
+  <a href="https://docs.anthropic.com/en/docs/mcp" title="Model Context Protocol (MCP)">
+    <img
+      src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/mcp.png"
+      width="32"
+      alt="MCP"
+    />
+  </a>
+
+  <!-- Retrieval-Augmented Generation (RAG) -->
+  <a href="https://aws.amazon.com/what-is/retrieval-augmented-generation/" title="AWS Retrieval-Augmented Generation (RAG)">
+    <img
+      src="https://img.icons8.com/ios-filled/50/000000/search-in-list.png"
+      width="32"
+      alt="RAG"
+    />
+  </a>
+</p>
+
 ### 🖥️ Frontend
 <p align="left">
   <a href="https://www.w3schools.com/html/"       title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"             width="32" alt="HTML5" /></a>
@@ -181,74 +239,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     />
   </a>
 </p>
-
-### 🤖 AI & Machine Learning
-
-<p align="left">
-  <!-- AWS Bedrock -->
-  <a href="https://aws.amazon.com/bedrock/" title="AWS Bedrock">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      width="32"
-      alt="AWS Bedrock"
-    />
-  </a>
-
-  <!-- GCP Vertex AI -->
-  <a href="https://cloud.google.com/vertex-ai" title="GCP Vertex AI">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
-      width="32"
-      alt="GCP Vertex AI"
-    />
-  </a>
-
-  <!-- n8n -->
-  <a href="https://n8n.io/" title="n8n">
-    <img
-      src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/n8n.png"
-      width="32"
-      alt="n8n"
-    />
-  </a>
-
-  <!-- Make.com -->
-  <a href="https://www.make.com/" title="Make.com">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/make.svg"
-      width="32"
-      alt="Make.com"
-    />
-  </a>
-
-  <!-- TensorFlow.js -->
-  <a href="https://www.tensorflow.org/js" title="TensorFlow.js">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-      width="32"
-      alt="TensorFlow.js"
-    />
-  </a>
-
-  <!-- Model Context Protocol (MCP) -->
-  <a href="https://github.com/openai/mcp" title="Model Context Protocol (MCP)">
-    <img
-      src="https://img.icons8.com/ios-filled/50/000000/protocol.png"
-      width="32"
-      alt="MCP"
-    />
-  </a>
-
-  <!-- Retrieval-Augmented Generation (RAG) -->
-  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" title="Retrieval-Augmented Generation (RAG)">
-    <img
-      src="https://img.icons8.com/ios-filled/50/000000/search-in-list.png"
-      width="32"
-      alt="RAG"
-    />
-  </a>
-</p>
-
 
 ---
 
