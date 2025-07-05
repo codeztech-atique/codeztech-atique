@@ -131,7 +131,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   </a>
   <!-- AWS CodePipeline -->
   <a href="https://aws.amazon.com/codepipeline/" title="AWS CodePipeline">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="AWS CodePipeline"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="32" alt="AWS CodePipeline"/>
   </a>
   <!-- GitHub Actions -->
   <a href="https://github.com/features/actions" title="GitHub Actions">
