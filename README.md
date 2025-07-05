@@ -106,18 +106,12 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ---
 
 <p align="center">
-  <table>
-    <tr>
-      <td valign="top">
 
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default)](https://github.com/codeztech-atique/github-readme-stats)
-      </td>
-      <td valign="top">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default)](https://github.com/codeztech-atique/github-readme-stats)
+    
 
-        [![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10)](https://github.com/codeztech-atique)
-      </td>
-    </tr>
-  </table>
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10)](https://github.com/codeztech-atique)
+    
 </p>
 
 <p align="center">
