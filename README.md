@@ -145,7 +145,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   <!-- Amazon Web Services -->
   <a href="https://aws.amazon.com/" title="Amazon Web Services">
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
       width="32" 
       alt="AWS" 
     />
@@ -173,7 +173,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
       alt="Docker"
     />
   </a>
-  <!-- (Optional) Kubernetes -->
   <a href="https://kubernetes.io/" title="Kubernetes">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
