@@ -93,7 +93,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="32" alt="Vue.js"/>
   </a>
   <a href="https://tailwindcss.com/" title="Tailwind CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="32" alt="Tailwind CSS"/>
+    <img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="32" alt="Tailwind CSS"/>
   </a>
   <a href="https://getbootstrap.com/" title="Bootstrap">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="32" alt="Bootstrap"/>
