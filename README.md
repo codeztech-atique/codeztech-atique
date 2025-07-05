@@ -1,11 +1,6 @@
 ### Hi there, I'm Atique Ahmed - Youtube [codeztech][youtube] 👋
 
-
-<!-- increment on load -->
-<img src="https://api.countapi.xyz/hit/codeztech-atique/profileviews" style="display:none;" alt=""/>
-
-<!-- display the live count -->
-![Profile Views](https://img.shields.io/dynamic/json?color=4d4d4d&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fcodeztech-atique%2Fprofileviews&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=codeztech-atique&color=4d4d4d&style=flat-square)
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
 [![Linkedin](https://img.shields.io/website?label=Atique_Ahmed_LinkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/iamatiqueahmed)](https://www.linkedin.com/in/iamatiqueahmed)  
 [![Website](https://img.shields.io/website?label=www.codeztech.com&style=for-the-badge&url=https%3A%2F%2Fwww.codeztech.com)](https://www.codeztech.com)
