@@ -105,32 +105,35 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 ---
 <summary>📊 Github Stats</summary>
-
 <p align="center">
-  <a href="https://github.com/codeztech-atique/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default" 
-      alt="Top Languages" 
-      style="display:inline-block;margin:0 10px;" 
+  <!-- 1. Stats Card -->
+  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
+    <a href="https://github.com/codeztech-atique">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10"
+        alt="Atique Ahmed's GitHub Stats"
+      />
+    </a>
+  </span>
+
+  <!-- 2. Contributions & Streaks Card -->
+  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default"
+      alt="GitHub Contributions & Streak"
     />
-  </a>
-  <a href="https://github.com/codeztech-atique">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10" 
-      alt="GitHub Stats" 
-      style="display:inline-block;margin:0 10px;" 
-    />
-  </a>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default" 
-    alt="GitHub Streak" 
-    style="display:inline-block;margin:0 10px;" 
-  />
+  </span>
+
+  <!-- 3. Top Languages Bar -->
+  <span style="display:inline-block; vertical-align:top; margin:0 10px;">
+    <a href="https://github.com/codeztech-atique/github-readme-stats">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default"
+        alt="Most Used Languages"
+      />
+    </a>
+  </span>
 </p>
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&theme=gotham" alt="Atique Ahmed | Stats" />
 
 
 ### 🥅 Profile Visitors   ![Visitor Count](https://profile-counter.glitch.me/{codeztech-atique}/count.svg)
