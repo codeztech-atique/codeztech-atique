@@ -113,7 +113,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
   <!-- Model Context Protocol (MCP) -->
   <a href="https://docs.anthropic.com/en/docs/mcp" title="Model Context Protocol (MCP)">
     <img
-      src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/mcp.png"
+      src="https://github.com/codeztech-atique/codeztech-atique.github.io/blob/master/mcp-server-stroke-rounded.svg"
       width="32"
       alt="MCP"
     />
