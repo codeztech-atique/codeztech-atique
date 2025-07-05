@@ -2,8 +2,12 @@
 
 
 <p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://profile-counter.glitch.me/codeztech-atique/count.svg" alt="Profile views" style="margin-bottom: 10px;" />
+  <!-- This will load via raw.githubusercontent.com and be proxied by camo -->
+  <img
+    src="https://raw.githubusercontent.com/codeztech-atique/codeztech-atique/master/count.svg"
+    alt="Profile views"
+    style="margin-bottom: 10px;"
+  />
 </p>
 
 [![Website](https://img.shields.io/website?label=atiqueahmed.com&style=for-the-badge&url=https%3A%2F%2Fatiqueahmed.com)](https://atiqueahmed.com)
