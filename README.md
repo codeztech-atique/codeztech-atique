@@ -41,7 +41,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <a href="https://github.com/codeztech-atique">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10"
+          src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10&hide_border=true"
           alt="Atique Ahmed's GitHub Stats"
         />
       </a>
@@ -57,7 +57,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <a href="https://github.com/codeztech-atique/github-readme-stats">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default&hide_border=true"
           alt="Most Used Languages"
         />
       </a>
@@ -70,62 +70,6 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     </td>
   </tr>
 </table>
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="padding:10px; text-align:center; vertical-align:top;">
-      <a href="https://github.com/codeztech-atique">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10"
-          alt="GitHub Stats"
-        />
-      </a>
-    </td>
-    <td style="padding:10px; text-align:center; vertical-align:top;">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true"
-        alt="GitHub Contributions & Streak"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px; text-align:center; vertical-align:top;">
-      <a href="https://github.com/codeztech-atique/github-readme-stats">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default"
-          alt="Most Used Languages"
-        />
-      </a>
-    </td>
-    <td style="padding:10px; text-align:center; vertical-align:top;">
-      <img
-        src="https://ghchart.rshah.org/codeztech-atique"
-        alt="Contribution Calendar"
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/atique-ahmed/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://twitter.com/codez_tech">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.buymeacoffee.com/codeztech">
-    <img
-      src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee"
-      alt="Buy Me A Coffee"
-    />
-  </a>
-</p>
-
 
 
 **Languages and Database:**
