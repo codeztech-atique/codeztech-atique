@@ -15,7 +15,7 @@
 
 **🚀 Developer Advocate @ Zoom | AI, ML & Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder**
 
-With over a decade of experience in full-stack web development, I currently work as a **Developer Advocate at Zoom**, where I lead the development of internal platforms using technologies like **React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch**, **AWS** and **GCP**. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
+With over a decade of experience in full-stack web development, I currently work as a **Developer Advocate at Zoom**, where I lead the development of internal platforms using technologies like **React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, RAG, MCP, Agentic AI, Elasticsearch**, **AWS** and **GCP**. I build scalable, user-focused web applications that solve real-world business challenges and improve digital experiences.
 
 Beyond my role at Zoom, I actively **collaborate with startups** to design and build their products—helping founders take ideas from vision to launch. I specialize in integrating **AI, ML, and multi-agent systems** to power intelligent workflows in **customer service, marketing automation, SEO, and data analysis**. I use platforms like ChatGPT, Grok AI, DeepSeek, and custom LLM orchestration to create scalable agentic architectures that deliver business value.
 
