@@ -9,7 +9,7 @@
 
 ![cover](https://codeztech-atique.github.io/codeztech.png)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-roan.vercel.app/?username=codeztech-atique)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
@@ -41,7 +41,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <a href="https://github.com/codeztech-atique">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10&hide_border=true"
+          src="https://github-profile-trophy-roan.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10&hide_border=true"
           alt="Atique Ahmed's GitHub Stats"
         />
       </a>
@@ -64,7 +64,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     </td>
     <td style="padding:10px;text-align:center;vertical-align:top;">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=codeztech-atique&theme=default&no-frame=true&row=1&column=4"
+        src="https://github-profile-trophy-roan.vercel.app/?username=codeztech-atique&theme=default&no-frame=true&row=1&column=4"
         alt="GitHub Trophies"
       />
     </td>
