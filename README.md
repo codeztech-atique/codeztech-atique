@@ -7,7 +7,8 @@
 [![Website](https://img.shields.io/website?label=Codeztech_GitHub&style=for-the-badge&url=https%3A%2F%2Fgithub.com/Codez-Tech)](https://github.com/Codez-Tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codez_tech?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codez_tech)
 
-![cover](https://codeztech-atique.github.io/codeztech.png)
+<!-- ![cover](https://codeztech-atique.github.io/codeztech.png) -->
+![cover](https://s3.ap-south-1.amazonaws.com/codeztech.com/Codeztech-Banner-Ads-2.png)
 
 [![trophy](https://github-profile-trophy-roan.vercel.app/?username=codeztech-atique)](https://github.com/ryo-ma/github-profile-trophy)
 
