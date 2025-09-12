@@ -10,7 +10,7 @@
 <!-- ![cover](https://codeztech-atique.github.io/codeztech.png) -->
 ![cover](https://s3.ap-south-1.amazonaws.com/codeztech.com/Codeztech-Banner-Ads-2.png)
 
-[![trophy](https://github-profile-trophy-roan.vercel.app/?username=codeztech-atique)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=codeztech-atique)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
