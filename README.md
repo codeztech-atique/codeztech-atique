@@ -55,16 +55,16 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
 			<div style="height:100%; display:flex; flex-direction:column;">
 				<h4 style="margin:0 0 12px 0;">Summary Stats</h4>
-				<div style="flex:1; display:flex; align-items:center;">
-					<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" alt="Stats" style="width:100%; max-height:220px; object-fit:contain; display:block; margin:0 auto;" />
+				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" alt="Stats" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
 				</div>
 			</div>
 		</td>
 		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
 			<div style="height:100%; display:flex; flex-direction:column;">
 				<h4 style="margin:0 0 12px 0;">Productive Time</h4>
-				<div style="flex:1; display:flex; align-items:center;">
-					<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" alt="Productive Time" style="width:100%; max-height:220px; object-fit:contain; display:block; margin:0 auto;" />
+				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" alt="Productive Time" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
 				</div>
 			</div>
 		</td>
@@ -73,16 +73,16 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
 			<div style="height:100%; display:flex; flex-direction:column;">
 				<h4 style="margin:0 0 12px 0;">Streak & Contributions</h4>
-				<div style="flex:1; display:flex; align-items:center;">
-					<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Streak Stats" style="width:100%; max-height:220px; object-fit:contain; display:block; margin:0 auto;" />
+				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
+					<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Streak Stats" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
 				</div>
 			</div>
 		</td>
 		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
 			<div style="height:100%; display:flex; flex-direction:column;">
 				<h4 style="margin:0 0 12px 0;">Repos Per Language</h4>
-				<div style="flex:1; display:flex; align-items:center;">
-					<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" alt="Repos per Language" style="width:100%; max-height:220px; object-fit:contain; display:block; margin:0 auto;" />
+				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" alt="Repos per Language" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
 				</div>
 			</div>
 		</td>
