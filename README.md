@@ -38,14 +38,32 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 ## GitHub Visuals
 
-| Streak & Contributions | Activity Graph | Profile Details |
-|---|---|---|
-| ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=codeztech-atique) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique) | ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique) |
-| Productive Time | Summary Stats | Top Languages |
-| ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique) |
-| Repos Per Language |  |  |
-| ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique) |  |  |
-
+<table align="center" cellspacing="0" cellpadding="12" style="width:100%; border-collapse:collapse;">
+	<tr>
+		<td style="width:28%; vertical-align:top; border:1px solid #e6e6e6;">
+			<h3>Streak & Contributions</h3>
+			<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Streak Stats" style="max-width:100%; display:block;" />
+		</td>
+		<td style="width:72%; vertical-align:top; border:1px solid #e6e6e6;">
+			<h3>Activity Graph</h3>
+			<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique&width=900&height=200" alt="Activity Graph" style="width:100%; max-width:900px; display:block;" />
+			<h3 style="margin-top:18px;">Profile Details</h3>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" alt="Profile Details" style="width:100%; max-width:900px; display:block; margin-top:8px;" />
+		</td>
+	</tr>
+	<tr>
+		<td style="vertical-align:top; border:1px solid #e6e6e6;">
+			<h3>Productive Time</h3>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" alt="Productive Time" style="max-width:100%; display:block;" />
+		</td>
+		<td style="vertical-align:top; border:1px solid #e6e6e6;">
+			<h3>Summary Stats</h3>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" alt="Stats" style="max-width:100%; display:block;" />
+			<h3 style="margin-top:18px;">Repos Per Language</h3>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" alt="Repos per Language" style="max-width:100%; display:block; margin-top:8px;" />
+		</td>
+	</tr>
+</table>
 
 
 ## 💻 Programming Languages & Frameworks
