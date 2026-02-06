@@ -51,43 +51,38 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" alt="Profile Details" style="width:100%; max-width:1200px; display:block;" />
 		</td>
 	</tr>
-	<tr>
-		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
-			<div style="height:100%; display:flex; flex-direction:column;">
-				<h4 style="margin:0 0 12px 0;">Summary Stats</h4>
-				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
-					<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" alt="Stats" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
-				</div>
-			</div>
-		</td>
-		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
-			<div style="height:100%; display:flex; flex-direction:column;">
-				<h4 style="margin:0 0 12px 0;">Productive Time</h4>
-				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
-					<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" alt="Productive Time" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
-				</div>
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
-			<div style="height:100%; display:flex; flex-direction:column;">
-				<h4 style="margin:0 0 12px 0;">Streak & Contributions</h4>
-				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
-					<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Streak Stats" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
-				</div>
-			</div>
-		</td>
-		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px; min-height:260px;">
-			<div style="height:100%; display:flex; flex-direction:column;">
-				<h4 style="margin:0 0 12px 0;">Repos Per Language</h4>
-				<div style="flex:1; display:flex; align-items:center; justify-content:center;">
-					<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" alt="Repos per Language" style="width:auto; max-height:180px; object-fit:contain; display:block; margin:0 auto;" />
-				</div>
-			</div>
-		</td>
-	</tr>
 </table>
+
+<table align="center" cellspacing="0" cellpadding="0" style="width:100%;">
+	<tbody>
+		<tr>
+			<th style="width:50%; padding:12px; vertical-align:top;">
+				<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" style="max-width:100%; display:block;" alt="Repos per Language" />
+				</a>
+			</th>
+			<th style="width:50%; padding:12px; vertical-align:top;">
+				<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" style="max-width:100%; display:block;" alt="Most Commit Language" />
+				</a>
+			</th>
+		</tr>
+		<tr>
+			<td style="padding:12px; vertical-align:top;">
+				<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" style="max-width:100%; display:block;" alt="Stats" />
+				</a>
+			</td>
+			<td style="padding:12px; vertical-align:top;">
+				<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" style="max-width:100%; display:block;" alt="Productive Time" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</table>
+
 
 
 ## 💻 Programming Languages & Frameworks
