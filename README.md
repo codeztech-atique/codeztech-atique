@@ -263,13 +263,13 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeJS Complete Guide](https://www.codeztech.com/2019/12/nodejs-complete-guide-to-build-restful.html)
-- [Mongodb Complete Guide](https://www.codeztech.com/2019/12/mongodb-complete-guide-about-mongodb.html)
-- [Jenkins with Slack integration](https://www.codeztech.com/2020/01/install-and-configure-slack-and-email-notification-with-jenkins.html)
-- [Hosting Meanstack Web application](https://www.codeztech.com/2020/01/amazon-ec2-tutorial-hosting-mean-stack.html)
+- [NodeJS Complete Guide](https://www.codeztech.in/2019/12/nodejs-complete-guide-to-build-restful.html)
+- [Mongodb Complete Guide](https://www.codeztech.in/2019/12/mongodb-complete-guide-about-mongodb.html)
+- [Jenkins with Slack integration](https://www.codeztech.in/2020/01/install-and-configure-slack-and-email-notification-with-jenkins.html)
+- [Hosting Meanstack Web application](https://www.codeztech.in/2020/01/amazon-ec2-tutorial-hosting-mean-stack.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.codeztech.com)
+➡️ [more blog posts...](https://www.codeztech.in)
 
 ---
 
@@ -281,4 +281,4 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 [instagram]: https://instagram.com/mighty_warriorr
 [facebook]: https://www.facebook.com/CodezTechnology
 [hackerrank]: https://www.hackerrank.com/Atique_Ahmed
-[blog]: https://www.codeztech.com
+[blog]: https://www.codeztech.in
