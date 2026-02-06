@@ -38,12 +38,14 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 ## 📊 GitHub Visuals
 
+## GitHub Visuals 📊
+
 <table>
   <tbody>
     <tr>
       <td>
         <a href="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" rel="nofollow">
-          <img width="705" src="https://camo.githubusercontent.com/b61ca9e0b519d92e7d59ce2bbee0cafc028063d3a97ebce7012923e97ae1c716/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d6c7563746869656e70686f6e67313132302662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666267468656d653d7261646963616c26686964655f626f726465723d74727565" data-canonical-src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;theme=radical&amp;hide_border=true" style="max-width: 100%;">
+          <img width="705" src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" style="max-width: 100%;">
         </a>
       </td>
     </tr>
@@ -52,7 +54,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" rel="nofollow">
-          <img width="715" src="https://camo.githubusercontent.com/553eb18ecc5db363af5982614120f74d4f351f9211b44b1b2954369b45f50b8d/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6c7563746869656e70686f6e6731313230267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique&amp;theme=dracula" style="max-width: 100%;">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" style="max-width: 100%;">
         </a>
       </td>
     </tr>
@@ -61,7 +63,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <tr>
       <td>
         <a href="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique" rel="nofollow">
-          <img width="705" src="https://camo.githubusercontent.com/3fb3f3e2d39cea33ee08bb0346aabda4c18112128131eb4419371fb311e4bf6f/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6c7563746869656e70686f6e6731313230267468656d653d64726163756c61" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique&amp;theme=dracula" style="max-width: 100%;">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique" style="max-width: 100%;">
         </a>
       </td>
     </tr>
@@ -73,12 +75,12 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/f18db5741810c2782a10ded5afdcd424ab078472f9be9d193eaff7c600429f06/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d6c7563746869656e70686f6e6731313230267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique&amp;theme=dracula" style="max-width: 100%;">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" style="max-width: 100%;">
         </a>
       </th>
       <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique&amp;" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/99fc40fa5b53d95f803f39abb3a947394b9e9ef6546c5235a8c98df6ab2ca09a/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d6c7563746869656e70686f6e6731313230267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique&amp;theme=dracula" style="max-width: 100%;">
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" rel="nofollow">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" style="max-width: 100%;">
         </a>
       </th>
     </tr>
@@ -87,12 +89,12 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/01384d51c919fe7e5e3687738978eaf6616b060002cdfaef0b62a3db63dbe7ba/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d6c7563746869656e70686f6e6731313230267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique&amp;theme=dracula" style="max-width: 100%;">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" rel="nofollow">
-          <img src="https://camo.githubusercontent.com/3762f64ca42faf5ee8e03fcee9f4b9fa421f44dc319d4beac1b209c236e5ebd1/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d6c7563746869656e70686f6e6731313230267468656d653d64726163756c61" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique&amp;theme=dracula" style="max-width: 100%;">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" style="max-width: 100%;">
         </a>
       </td>
     </tr>
