@@ -42,7 +42,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 	<tr>
 		<td colspan="2" style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
 			<h3>Activity Graph</h3>
-			<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique&width=1200&height=240" alt="Activity Graph" style="width:100%; max-width:1200px; display:block;" />
+			<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Activity Graph" style="width:100%; max-width:1200px; display:block;" />
 		</td>
 	</tr>
 	<tr>
