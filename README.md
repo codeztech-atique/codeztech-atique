@@ -39,44 +39,59 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ## 📊 GitHub Visuals
 
 <table align="center" cellspacing="0" cellpadding="12" style="width:100%; border-collapse:collapse;">
-	<tr>
-		<td colspan="2" style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
-			<h3>Activity Graph</h3>
-			<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Activity Graph" style="width:100%; max-width:1200px; display:block;" />
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2" style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
-			<h3>Profile Details</h3>
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" alt="Profile Details" style="width:100%; max-width:1200px; display:block;" />
-		</td>
-	</tr>
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
+				<h3 style="margin:0 0 12px 0;">Streak</h3>
+				<a href="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" rel="nofollow">
+					<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Streak Stats" style="max-width:100%; display:block;" />
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
+				<h3 style="margin:0 0 12px 0;">Profile Details</h3>
+				<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" alt="Profile Details" style="max-width:100%; display:block;" />
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
+				<h3 style="margin:0 0 12px 0;">Activity Graph</h3>
+				<a href="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique" alt="Activity Graph" style="max-width:100%; display:block;" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
-<table cellspacing="0" cellpadding="0" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table align="center" cellspacing="0" cellpadding="0" style="width:100%; table-layout:fixed; border-collapse:collapse;">
 	<tbody>
 		<tr>
 			<th style="width:50%; padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
 				<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" rel="nofollow">
-					<div style="height:220px; display:flex; align-items:center; justify-content:center;">
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" style="max-width:100%; max-height:200px; width:auto; height:auto; display:block;" alt="Repos per Language" />
-					</div>
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" alt="Repos per Language" style="max-width:100%; display:block;" />
 				</a>
 			</th>
-            <th style="width:50%; padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
-                <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" rel="nofollow">
-					<div style="height:220px; display:flex; align-items:center; justify-content:center;">
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" style="max-width:100%; max-height:200px; width:auto; height:auto; display:block;" alt="Stats" />
-					</div>
-				</a>
-            </th>
 			<th style="width:50%; padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
 				<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" rel="nofollow">
-					<div style="height:220px; display:flex; align-items:center; justify-content:center;">
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" style="max-width:100%; max-height:200px; width:auto; height:auto; display:block;" alt="Most Commit Language" />
-					</div>
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" alt="Most Commit Language" style="max-width:100%; display:block;" />
 				</a>
 			</th>
+		</tr>
+		<tr>
+			<td style="padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
+				<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" alt="Stats" style="max-width:100%; display:block;" />
+				</a>
+			</td>
+			<td style="padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
+				<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" rel="nofollow">
+					<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" alt="Productive Time" style="max-width:100%; display:block;" />
+				</a>
+			</td>
 		</tr>
 	</tbody>
 </table>
