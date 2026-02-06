@@ -42,7 +42,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 	<tr>
 		<td colspan="2" style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
 			<h3>Activity Graph</h3>
-			<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique&width=1200&height=240" alt="Activity Graph" style="width:100%; max-width:1200px; display:block;" />
+			<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique&width=1200&height=240" alt="Activity Graph" style="width:100%; max-width:1200px; display:block;" />
 		</td>
 	</tr>
 	<tr>
@@ -53,7 +53,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 	</tr>
 </table>
 
-<table align="center" cellspacing="0" cellpadding="0" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table cellspacing="0" cellpadding="0" style="width:100%; table-layout:fixed; border-collapse:collapse;">
 	<tbody>
 		<tr>
 			<th style="width:50%; padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
@@ -63,6 +63,13 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 					</div>
 				</a>
 			</th>
+            <th style="width:50%; padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
+                <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" rel="nofollow">
+					<div style="height:220px; display:flex; align-items:center; justify-content:center;">
+						<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" style="max-width:100%; max-height:200px; width:auto; height:auto; display:block;" alt="Stats" />
+					</div>
+				</a>
+            </th>
 			<th style="width:50%; padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
 				<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique" rel="nofollow">
 					<div style="height:220px; display:flex; align-items:center; justify-content:center;">
@@ -71,28 +78,8 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 				</a>
 			</th>
 		</tr>
-		<tr>
-			<td style="padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
-				<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" rel="nofollow">
-					<div style="height:220px; display:flex; align-items:center; justify-content:center;">
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" style="max-width:100%; max-height:200px; width:auto; height:auto; display:block;" alt="Stats" />
-					</div>
-				</a>
-			</td>
-			<td style="padding:12px; vertical-align:top; border:1px solid #e6e6e6;">
-				<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" rel="nofollow">
-					<div style="height:220px; display:flex; align-items:center; justify-content:center;">
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" style="max-width:100%; max-height:200px; width:auto; height:auto; display:block;" alt="Productive Time" />
-					</div>
-				</a>
-			</td>
-		</tr>
 	</tbody>
 </table>
-</table>
-
-
-
 
 
 ## 💻 Programming Languages & Frameworks
