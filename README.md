@@ -14,7 +14,7 @@
 
 ## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
-**🚀 Developer Advocate @ Zoom | Engineering Leader | AI & ML Specialist | Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder**
+**🚀 Principal AI Architect (GenAI + Agentic AI) at Deloitte | Engineering Leader | AI & ML Specialist | Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder**
 
 With over a decade of experience in full-stack development, I currently serve as a **Developer Advocate** at **Zoom**, where I lead the development of internal platforms using technologies such as **React, Angular, Java Spring Boot, Node.js, API Gateway, Lambda, Docker, MongoDB, Postgres, Elasticsearch, and advanced AI frameworks like RAG, MCP, and Agentic AI on AWS and GCP**. I build scalable, AI-driven platforms and user-focused web applications that tackle real-world business challenges and enhance digital experiences.
 
