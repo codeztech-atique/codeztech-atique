@@ -40,38 +40,39 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 <table align="center" cellspacing="0" cellpadding="12" style="width:100%; border-collapse:collapse;">
 	<tr>
-		<td style="width:60%; vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
+		<td colspan="2" style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
 			<h3>Activity Graph</h3>
-			<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique&width=900&height=200" alt="Activity Graph" style="width:100%; max-width:900px; display:block;" />
-			<h3 style="margin-top:18px;">Profile Details</h3>
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" alt="Profile Details" style="width:100%; max-width:900px; display:block; margin-top:8px;" />
+			<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique&width=1200&height=240" alt="Activity Graph" style="width:100%; max-width:1200px; display:block;" />
 		</td>
-		<td style="width:40%; vertical-align:top; border:1px solid #e6e6e6; padding:8px;">
-			<table style="width:100%; border-collapse:collapse;">
-				<tr>
-					<td style="width:50%; vertical-align:top; padding:8px;">
-						<h4>Summary Stats</h4>
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" alt="Stats" style="width:100%; display:block;" />
-					</td>
-					<td style="width:50%; vertical-align:top; padding:8px;">
-						<h4>Productive Time</h4>
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" alt="Productive Time" style="width:100%; display:block;" />
-					</td>
-				</tr>
-				<tr>
-					<td style="width:50%; vertical-align:top; padding:8px;">
-						<h4>Streak & Contributions</h4>
-						<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Streak Stats" style="width:100%; display:block;" />
-					</td>
-					<td style="width:50%; vertical-align:top; padding:8px;">
-						<h4>Repos Per Language</h4>
-						<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" alt="Repos per Language" style="width:100%; display:block;" />
-					</td>
-				</tr>
-			</table>
+	</tr>
+	<tr>
+		<td colspan="2" style="vertical-align:top; border:1px solid #e6e6e6; padding:18px;">
+			<h3>Profile Details</h3>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique" alt="Profile Details" style="width:100%; max-width:1200px; display:block;" />
+		</td>
+	</tr>
+	<tr>
+		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px;">
+			<h4>Summary Stats</h4>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique" alt="Stats" style="width:100%; display:block;" />
+		</td>
+		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px;">
+			<h4>Productive Time</h4>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique" alt="Productive Time" style="width:100%; display:block;" />
+		</td>
+	</tr>
+	<tr>
+		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px;">
+			<h4>Streak & Contributions</h4>
+			<img src="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" alt="Streak Stats" style="width:100%; display:block;" />
+		</td>
+		<td style="width:50%; vertical-align:top; border:1px solid #e6e6e6; padding:12px;">
+			<h4>Repos Per Language</h4>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique" alt="Repos per Language" style="width:100%; display:block;" />
 		</td>
 	</tr>
 </table>
+
 
 
 
