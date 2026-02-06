@@ -36,41 +36,16 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 
 <br />
 
-**📊 Github Stats**
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="padding:10px;text-align:center;vertical-align:top;">
-      <a href="https://github.com/codeztech-atique">
-        <img
-          src="https://github-profile-trophy-roan.vercel.app/api?username=codeztech-atique&show_icons=true&count_private=true&theme=default&border_radius=10&hide_border=true"
-          alt="Atique Ahmed's GitHub Stats"
-        />
-      </a>
-    </td>
-    <td style="padding:10px;text-align:center;vertical-align:top;">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=codeztech-atique&theme=default&hide_border=true&ring=DDDDDD"
-        alt="GitHub Contributions & Streak"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:10px;text-align:center;vertical-align:top;">
-      <a href="https://github.com/codeztech-atique/github-readme-stats">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=6&theme=default&hide_border=true"
-          alt="Most Used Languages"
-        />
-      </a>
-    </td>
-    <td style="padding:10px;text-align:center;vertical-align:top;">
-      <img
-        src="https://github-profile-trophy-roan.vercel.app/?username=codeztech-atique&theme=default&no-frame=true&row=1&column=4"
-        alt="GitHub Trophies"
-      />
-    </td>
-  </tr>
-</table>
+## GitHub Visuals
+
+| Streak & Contributions | Activity Graph | Profile Details |
+|---|---|---|
+| ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=codeztech-atique) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codeztech-atique) | ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeztech-atique) |
+| Productive Time | Summary Stats | Top Languages |
+| ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeztech-atique) | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique) | ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeztech-atique) |
+| Repos Per Language |  |  |
+| ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique) |  |  |
+
 
 
 ## 💻 Programming Languages & Frameworks
