@@ -107,6 +107,33 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ### 🤖 Building AI Agents with Agentic AI
 
 <p align="left">
+  <!-- Languages -->
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python" />
+  </a>
+
+  <!-- Langgraph -->
+  <a href="https://langchain-ai.github.io/langgraph/" title="LangGraph">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="32" alt="LangGraph" />
+  </a>
+
+  <a href="https://huggingface.co/" title="Hugging Face">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" alt="Hugging Face" />
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" alt="PyTorch" />
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" alt="TensorFlow" />
+  </a>
+  <a href="https://jupyter.org/" title="Jupyter">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="32" alt="Jupyter" />
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32" alt="FastAPI" />
+  </a>
+  
   <!-- AWS Bedrock -->
   <a href="https://aws.amazon.com/bedrock/" title="AWS Bedrock">
     <img
