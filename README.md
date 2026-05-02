@@ -12,7 +12,7 @@
 
 [![trophy](https://github-trophies.vercel.app/?username=codeztech-atique)](https://github.com/codeztech-atique/InterviewPreparationKit)
 
-## I'M A DEVELOPER | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
+## I'M A PRINCIPAL AI ARCHITECT | GENAI | AGENTIC AI | YOUTUBER | BLOGGER | TUTOR | TECHMENTOR !!
 
 **🚀 Principal AI Architect (GenAI + Agentic AI) at Deloitte | Engineering Leader | AI & ML Specialist | Multi-Agent Systems | Tech Mentor | Startup Enabler | Guinness World Record Holder**
 
