@@ -41,7 +41,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
 ## GitHub Visuals 📊
 
 <table>
-  <tbody>
+  <!-- <tbody>
     <tr>
       <td>
         <a href="https://nirzak-streak-stats.vercel.app/?user=codeztech-atique" rel="nofollow">
@@ -49,7 +49,7 @@ Beyond my role at Zoom, I actively **collaborate with startups** to design and b
         </a>
       </td>
     </tr>
-  </tbody>
+  </tbody> -->
   <tbody>
     <tr>
       <td>
