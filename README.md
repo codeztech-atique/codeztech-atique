@@ -204,8 +204,10 @@ learning:    Multi-agent orchestration
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=codeztech-atique&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2" alt="GitHub stats"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeztech-atique&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeztech-atique&theme=github_dark" height="180" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeztech-atique&theme=github_dark" height="180" alt="Top languages"/>
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=codeztech-atique&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
