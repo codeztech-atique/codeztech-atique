@@ -62,7 +62,7 @@ I design and ship **RAG pipelines**, **MCP server architectures**, and **enterpr
 name:        Atique Ahmed
 role:        Principal AI Architect
 focus:       GenAI · Agentic AI · MCP
-experience:  10+ yrs
+experience:  13+ yrs
 content:     YouTube @ codeztech
 clouds:      AWS · GCP
 stack:       Python · Node · React
